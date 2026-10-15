@@ -1,4 +1,4 @@
-# #30DayMapChallenge 2026 — Portfolio Cartográfico
+# #30DayMapChallenge 2026 | Portfolio Cartográfico
 
 ¡Bienvenido/a a mi repositorio del **#30DayMapChallenge 2026**! 
 
