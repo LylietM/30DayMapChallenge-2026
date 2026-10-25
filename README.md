@@ -14,13 +14,6 @@ En este espacio documento día a día los flujos de trabajo, datos ambientales y
 | **02** | Lines | Recorriendo el río Manzanares. Ganso del Nilo en Madrid | 02/11/2026 |
 | **03** | Polygons | Vitoria-Gasteiz: Teselación de Voronoi de la Infraestructura Verde | 03/11/2026 |
 | **04** | Clusters | Uso del espacio de chimpancés en un centro de recuperación | 04/11/2026 |
-| ... | ... | ... | ⏳ |
-| **08** | Vintage | *Próximamente* | ⏳ |
-| **11** | Senses: Sound | *Próximamente* | ⏳ |
-| **15** | Inside out | *Próximamente* | ⏳ |
-| **20** | Hexagons | *Próximamente* | ⏳ |
-| **25** | Is this a map? | *Próximamente* | ⏳ |
-| **28** | Senses: Feeling | *Próximamente* | ⏳ |
 
 ---
 
