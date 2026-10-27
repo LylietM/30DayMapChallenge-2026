@@ -8,7 +8,7 @@ En este espacio documento día a día los flujos de trabajo, datos ambientales y
 
 ## 📅 Índice de Mapas y Proceso Técnico
 
-| Día | Tema | Descripción / Título del Mapa | Proceso y Capturas |
+| Día | Tema | Título del Mapa | Proceso y Capturas |
 | :---: | :--- | :--- | :---: |
 | **01** | Points | Presencias del Ganso del Nilo en la península ibérica española | 01/11/2026 |
 | **02** | Lines | Recorriendo el río Manzanares. Ganso del Nilo en Madrid | 02/11/2026 |
