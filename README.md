@@ -14,10 +14,5 @@ En este espacio documento día a día los flujos de trabajo, datos ambientales y
 | **02** | Lines | Recorriendo el río Manzanares. Ganso del Nilo en Madrid | 02/11/2026 |
 | **03** | Polygons | Vitoria-Gasteiz: Teselación de Voronoi de la Infraestructura Verde | 03/11/2026 |
 | **04** | Clusters | Uso del espacio de chimpancés en un centro de recuperación | 04/11/2026 |
-
+| **05** | Sight | Agüimes: Impacto Visual de la Infraestructura Eólica | 05/11/2026 |
 ---
-
-## 🛠️ Herramientas e Infraestructura
-* **GIS & Vector:** *Próximamente*
-* **Data & Scripts:** *Próximamente*
-* **Diseño & Postprocesado:** *Próximamente*
