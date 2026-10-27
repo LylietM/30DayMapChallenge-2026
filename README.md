@@ -6,7 +6,7 @@ En este espacio documento día a día los flujos de trabajo, datos ambientales y
 
 ---
 
-## 📅 Índice de Mapas y Proceso Técnico
+## Índice de Mapas y Proceso Técnico
 
 | Día | Tema | Título del Mapa | Proceso y Capturas |
 | :---: | :--- | :--- | :---: |
