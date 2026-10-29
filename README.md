@@ -15,4 +15,5 @@ En este espacio documento día a día los flujos de trabajo, datos ambientales y
 | **03** | Polygons | Vitoria-Gasteiz: Teselación de Voronoi de la Infraestructura Verde | 03/11/2026 |
 | **04** | Clusters | Uso del espacio de chimpancés en un centro de recuperación | 04/11/2026 |
 | **05** | Sight | Agüimes: Impacto visual de la Infraestructura Eólica | 05/11/2026 |
+| **06** | Vintage | Viaje botánico de Edmond Boissier a Sierra Nevada | 06/11/2026 |
 ---
