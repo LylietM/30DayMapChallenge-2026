@@ -4,6 +4,8 @@
 
 En este espacio documento día a día los flujos de trabajo, datos ambientales y urbanos, procesos de análisis espacial y diseños finales desarrollados durante el reto.
 
+Más info: https://30daymapchallenge.com/2026/
+
 ---
 
 ## Índice de Mapas y Proceso Técnico
