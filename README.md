@@ -10,7 +10,7 @@ Más info: https://30daymapchallenge.com/2026/
 
 ## Índice de Mapas y Proceso Técnico
 
-| Día | Tema | Título del Mapa | Proceso y Capturas |
+| Día | Tema | Título del Mapa | Proceso |
 | :---: | :--- | :--- | :---: |
 | **01** | Points | Presencias del ganso del Nilo en la península ibérica española | [Ver proceso](./Dia-01-Points) |
 | **02** | Lines | Recorriendo el río Manzanares. Ganso del Nilo en Madrid | 02/11/2026 |
