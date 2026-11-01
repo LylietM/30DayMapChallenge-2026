@@ -41,7 +41,7 @@ gbif_limpieza <- fuzzySim::cleanCoords(
 > * **Temporalidad:** Muestras comprendidas entre 1970 y la actualidad.
 
 
-## 2. Carga de datos
+### 2. Carga de datos
 Se importaron los datos puntuales de presencias y la capa de España en formato vectorial.
 
 
@@ -69,14 +69,14 @@ Este proyecto utiliza datos abiertos procedentes de las siguientes fuentes ofici
 * **Licencia de uso:** Obra derivada de IGR-RT 2026 CC-BY 4.0 scne.es
 
 
-### Software y Herramientas
+## Software y Herramientas
 * **SIG y Maquetación Cartográfica:** 
   > QGIS.org (2026). *QGIS Geographic Information System (v. 3.44.12-Solothurn)*. QGIS Association. https://www.qgis.org
 * **Edición Gráfica y Postproducción:** 
   > Adobe Inc. (2012). *Adobe Photoshop* (v. 13.0 x64) [Computer software]. https://www.adobe.com/products/photoshop.html
   >Paquete de R fuzzySim. Barbosa, A.M. (2026). Fuzzy Similarity in Species Distributions. R package version 4.59. URL: http://fuzzysim.r-forge.r-project.org/.
 
-### Bibliografía
+## Bibliografía
 
 Callaghan, C., Brooks, D., & Pyle, P. (2020). Egyptian Goose (Alopochen aegyptiaca), version 1.0. In Birds of the World (S. M. Billerman, Editor). Cornell Lab of Ornithology.
 
