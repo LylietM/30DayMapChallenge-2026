@@ -51,7 +51,7 @@ Para la capa puntual se utilizó una simbología simple con fondo transparente y
 ![Simbología y maquetacion1](paso3_estilo1.png)
 ![Simbología y maquetacion2](paso3_estilo2.png)
 
-## Fuentes de Datos y citas
+## Fuentes de datos y citas
 
 Este proyecto utiliza datos abiertos procedentes de las siguientes fuentes oficiales y repositorios científicos:
 
