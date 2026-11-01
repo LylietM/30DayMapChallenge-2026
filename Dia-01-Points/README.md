@@ -1,6 +1,6 @@
 ﻿# Día 01: Points
 
-##Presencias del Ganso del Nilo en la península ibérica española
+## Presencias del Ganso del Nilo en la península ibérica española
 
 ## Concepto y Objetivo
 El ganso del Nilo (Alopochen aegyptiaca) es una especie incluida en el Catálogo Español de Especies Exóticas Invasoras (Real Decreto 630/2013) y regulada a nivel europeo (Directiva 2009/147/CE y Reglamento (CE) nº 318/2007). Originaria del África subsahariana, ha sido introducida principalmente en Europa y Estados Unidos, mostrando poblaciones estables y en expansión. En España, sus registros se concentran principalmente en Madrid, Extremadura y Cataluña. 
