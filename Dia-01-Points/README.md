@@ -15,7 +15,7 @@ La primera cita documentada de la especie es de 1985 en Aragón expandiéndose d
 
 ---
 
-## Proceso Técnico en R y QGIS
+## Proceso técnico en R y QGIS
 
 ### 1. Descarga de datos y limpeza
 Se descargaron los datos directamente de la web de GBIF.
@@ -51,28 +51,28 @@ Para la capa puntual se utilizó una simbología simple con fondo transparente y
 ![Simbología y maquetacion1](paso3_estilo1.png)
 ![Simbología y maquetacion2](paso3_estilo2.png)
 
-## Fuentes de Datos y Citas
+## Fuentes de Datos y citas
 
 Este proyecto utiliza datos abiertos procedentes de las siguientes fuentes oficiales y repositorios científicos:
 
-### 1. Registros de Presencia de *Alopochen aegyptiaca* (Ganso del Nilo)
+### 1. Registros de presencia de *Alopochen aegyptiaca* (Ganso del Nilo)
 * **Fuente:** Global Biodiversity Information Facility (GBIF).
  
  > GBIF.org (2026). *GBIF Occurrence Download*. Available from: https://doi.org/10.15468/dl.r2c3mn [Consultado el 18 de octubre de 2026].
 
 ---
 
-### 2. Cartografía Base y Límites Administrativos
+### 2. Cartografía base y Límites administrativos
 * **Fuente:** Centro de Descargas del Centro Nacional de Información Geográfica (CNIG) / Instituto Geográfico Nacional (IGN) de España.
 
   > Instituto Geográfico Nacional (IGN). (2026). *Líneas Límite Municipales, Autonómicas y Estatales (ETRS89 / UTM Zone 30N)*. Centro Nacional de Información Geográfica (CNIG). Disponible en: https://centrodedescargas.cnig.es
 * **Licencia de uso:** Obra derivada de IGR-RT 2026 CC-BY 4.0 scne.es
 
 
-## Software y Herramientas
-* **SIG y Maquetación Cartográfica:** 
+## Software y herramientas
+* **SIG y maquetación cartográfica:** 
   > QGIS.org (2026). *QGIS Geographic Information System (v. 3.44.12-Solothurn)*. QGIS Association. https://www.qgis.org
-* **Edición Gráfica y Postproducción:** 
+* **Edición gráfica y postproducción:** 
   > Adobe Inc. (2012). *Adobe Photoshop* (v. 13.0 x64) [Computer software]. https://www.adobe.com/products/photoshop.html
   >Paquete de R fuzzySim. Barbosa, A.M. (2026). Fuzzy Similarity in Species Distributions. R package version 4.59. URL: http://fuzzysim.r-forge.r-project.org/.
 
