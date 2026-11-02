@@ -47,8 +47,10 @@ Este proyecto utiliza datos abiertos procedentes de las siguientes fuentes ofici
 ## Software y herramientas 
 * **SIG y maquetación cartográfica:** 
 
-> QGIS.org (2026). *QGIS Geographic Information System (v. 3.44.12-Solothurn)*. QGIS Association. https://www.qgis.org * **Edición Gráfica y Postproducción:** 
+> QGIS.org (2026). *QGIS Geographic Information System (v. 3.44.12-Solothurn)*. QGIS Association. https://www.qgis.org * **Edición Gráfica y Postproducción:**
 
+* **Edición Gráfica y Postproducción:** 
+  > Adobe Inc. (2012). *Adobe Photoshop* (v. 13.0 x64) [Computer software]. https://www.adobe.com/products/photoshop.html
 
 ## Bibliografía
 
