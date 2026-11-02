@@ -34,7 +34,7 @@ Este proyecto utiliza datos abiertos procedentes de las siguientes fuentes ofici
 ### 1. Registros de presencia de *Alopochen aegyptiaca* (Ganso del Nilo)
 * **Fuente:** Global Biodiversity Information Facility (GBIF).
  
- > GBIF.org (2026). *GBIF Occurrence Download*. Available from: https://doi.org/10.15468/dl.r2c3mn [Consultado el 18 de octubre de 2026].
+   > GBIF.org (2026). *GBIF Occurrence Download*. Available from: https://doi.org/10.15468/dl.r2c3mn [Consultado el 18 de octubre de 2026].
 
 ---
 
