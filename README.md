@@ -13,7 +13,7 @@ Más info: https://30daymapchallenge.com/2026/
 | Día | Tema | Título del Mapa | Proceso |
 | :---: | :--- | :--- | :---: |
 | **01** | Points | Presencias del ganso del Nilo en la península ibérica española | [Ver proceso](./Dia-01-Points) |
-| **02** | Lines | Recorriendo el río Manzanares. Ganso del Nilo en Madrid | 02/11/2026 |
+| **02** | Lines | Recorriendo el río Manzanares. Ganso del Nilo en Madrid | [Ver proceso](./Dia-02-Lines) |
 | **03** | Polygons | Vitoria-Gasteiz: Teselación de Voronoi de la Infraestructura Verde | 03/11/2026 |
 | **04** | Clusters | Uso del espacio de chimpancés en un centro de recuperación | 04/11/2026 |
 | **05** | Sight | Agüimes: Impacto visual de la Infraestructura Eólica | 05/11/2026 |
