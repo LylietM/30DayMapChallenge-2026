@@ -45,12 +45,13 @@ Este proyecto utiliza datos abiertos procedentes de las siguientes fuentes ofici
 * **Licencia de uso:** Obra derivada de IGR-RT 2026 CC-BY 4.0 scne.es
 
 ## Software y herramientas 
-* **SIG y maquetación cartográfica:** 
+* **SIG y maquetación cartográfica:**
+  
+ > QGIS.org (2026). *QGIS Geographic Information System (v. 3.44.12-Solothurn)*. QGIS Association. https://www.qgis.org * **Edición Gráfica y Postproducción:**
 
-> QGIS.org (2026). *QGIS Geographic Information System (v. 3.44.12-Solothurn)*. QGIS Association. https://www.qgis.org * **Edición Gráfica y Postproducción:**
-
-* **Edición Gráfica y Postproducción:** 
-  > Adobe Inc. (2012). *Adobe Photoshop* (v. 13.0 x64) [Computer software]. https://www.adobe.com/products/photoshop.html
+* **Edición Gráfica y Postproducción:**
+  
+ > Adobe Inc. (2012). *Adobe Photoshop* (v. 13.0 x64) [Computer software]. https://www.adobe.com/products/photoshop.html
 
 ## Bibliografía
 
