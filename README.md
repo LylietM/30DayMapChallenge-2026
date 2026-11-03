@@ -19,7 +19,7 @@ Más info: https://30daymapchallenge.com/2026/
 | **05** | Sight | Agüimes: Impacto visual de la Infraestructura Eólica | 05/11/2026 |
 | **06** | Vintage | Viaje botánico de Edmond Boissier a Sierra Nevada | 06/11/2026 |
 | **07** | 10 minute map | Presencias del trepador azul en La Rioja | 07/11/2026 |
-| **09** | Urban-rural | ... | ⏳ |
+| **09** | Urban-rural | Despoblación rural en España (2023) | 09/11/2026 |
 | **10** | Prompting only | ... | ⏳ |
 | **11** | Senses: Sound | ... | ⏳ |
 | **12** | Power | ... | ⏳ |
