@@ -14,8 +14,8 @@ Más info: https://30daymapchallenge.com/2026/
 | :---: | :--- | :--- | :---: |
 | **01** | Points | Presencias del ganso del Nilo en la península ibérica española | [Ver proceso](./Dia-01-Points) |
 | **02** | Lines | Recorriendo el río Manzanares. Ganso del Nilo en Madrid | [Ver proceso](./Dia-02-Lines) |
-| **03** | Polygons | Vitoria-Gasteiz: Teselación de Voronoi de la Infraestructura Verde | 03/11/2026 |
-| **04** | Clusters | Uso del espacio de chimpancés en un centro de recuperación | 04/11/2026 |
+| **03** | Polygons | Vitoria-Gasteiz: Teselación de Voronoi de la Infraestructura Verde | [Ver proceso](./Dia-03-Polygon) |
+| **04** | Clusters | Uso del espacio de chimpancés en un centro de recuperación | [Ver proceso](./Dia-04-Clusters) |
 | **05** | Sight | Agüimes: Impacto visual de la Infraestructura Eólica | 05/11/2026 |
 | **06** | Vintage | Viaje botánico de Edmond Boissier a Sierra Nevada | 06/11/2026 |
 | **07** | 10 minute map | Presencias del trepador azul en La Rioja | 07/11/2026 |
