@@ -26,7 +26,7 @@ Con respecto a la zona de los machos, existían cuatro áreas con mayor densidad
 
 Se elaboró una capa vectorial de puntos sobre una ortofoto con una resolución de 25 cm (Catalunya 1:2.500) del sitio de estudio, en base a los datos obtenidos previamente (paso1_proceso.png). 
 
-![Proceso](paso1_proceso.png)
+![Proceso](paso1_proceso.jpg)
 
 Para evaluar las zonas más utilizadas por los individuos se realizó un mapa de densidad con el complemento “Heatmap” versión 0.2, con un valor de radio de 2 m y 10 cm de resolución de cada pixel. La forma del Kernel fue cuártica (triponderada). De esta forma, las zonas con mayor densidad son aquellas donde existen mayor número de comportamientos observados; y las zonas con menor densidad son aquellas en el que hay un menor número de comportamientos observados. Además, se usó el peso a partir del valor “Contador” (número de veces que un individuo hace el mismo comportamiento (con igual emisor y receptor en comportamientos sociales) sin cambiar de posición geográfica).
 
@@ -38,7 +38,7 @@ Posteriormente, se analizó estadísticamente la relación entre la zona y el co
 ### 1. Registros de comportamiento y uso:
 * Llevados a cabo por la autora entre el 18 de febrero y el 24 de abril de 2017.
 
-![Registros](paso1_proceso.png)
+![Proceso](paso1_proceso.jpg)
 
  
 ---
