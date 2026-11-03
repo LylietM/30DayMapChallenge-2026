@@ -24,7 +24,7 @@ Con respecto a la zona de los machos, existían cuatro áreas con mayor densidad
 
 ## Proceso Técnico en QGIS
 
-Se elaboró una capa vectorial de puntos sobre una ortofoto con una resolución de 25 cm (Catalunya 1:2.500) del sitio de estudio, en base a los datos obtenidos previamente (paso1_proceso.png). 
+Se elaboró una capa vectorial de puntos sobre una ortofoto con una resolución de 25 cm (Catalunya 1:2.500) del sitio de estudio, en base a los datos obtenidos previamente (paso1_proceso.png). La letra corresponde al nombre del individuo y los números al tipo de comportamiento.
 
 ![Proceso](paso1_proceso.JPG)
 
