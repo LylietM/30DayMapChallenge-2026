@@ -22,7 +22,7 @@ Con respecto a la zona de los machos, existían cuatro áreas con mayor densidad
 ---
 
 
-## Proceso Técnico en QGIS
+## Proceso técnico en QGIS
 
 Se elaboró una capa vectorial de puntos sobre una ortofoto con una resolución de 25 cm (Catalunya 1:2.500) del sitio de estudio, en base a los datos obtenidos previamente (paso1_proceso.png). La letra corresponde al nombre del individuo y los números al tipo de comportamiento.
 
@@ -33,7 +33,7 @@ Para evaluar las zonas más utilizadas por los individuos se realizó un mapa de
 Posteriormente, se analizó estadísticamente la relación entre la zona y el comportamiento de los individuos.
 
 
-## Fuentes de Datos y Citas
+## Fuentes de datos y citas
 
 ### 1. Registros de comportamiento y uso:
 * Llevados a cabo por la autora entre el 18 de febrero y el 24 de abril de 2017.
@@ -53,7 +53,7 @@ Posteriormente, se analizó estadísticamente la relación entre la zona y el co
 
 
 
-### Software y Herramientas 
+### Software y herramientas 
 * **SIG y Maquetación Cartográfica:** 
 
 > QGIS.org (2017). *QGIS Geographic Information System (v. 2.18-Las Palmas)*. QGIS Association. https://www.qgis.org
