@@ -51,7 +51,7 @@ Este proyecto utiliza datos abiertos procedentes de las siguientes fuentes ofici
 
 ### Software y herramientas
 
-- **SIG y Maquetación Cartográfica:**
+- **SIG y maquetación cartográfica:**
   > QGIS.org (2026). *QGIS Geographic Information System (v. 3.44.12-Solothurn)*. QGIS Association. https://www.qgis.org
 
 - **Complementos de QGIS:**
