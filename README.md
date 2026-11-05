@@ -17,7 +17,7 @@ Más info: https://30daymapchallenge.com/2026/
 | **03** | Polygons | Vitoria-Gasteiz: Teselación de Voronoi de la Infraestructura Verde | [Ver proceso](./Dia-03-Polygon) |
 | **04** | Clusters | Uso del espacio de chimpancés en un centro de recuperación | [Ver proceso](./Dia-04-Clusters) |
 | **05** | Sight | Agüimes: Impacto visual de la Infraestructura Eólica | [Ver proceso](./Dia-05-Sight) |
-| **06** | Vintage | Viaje botánico de Edmond Boissier a Sierra Nevada | 06/11/2026 |
+| **06** | Vintage | Viaje botánico de Edmond Boissier a Sierra Nevada | [Ver proceso](./Dia-06-Vintage)  |
 | **07** | 10 minute map | Presencias del trepador azul en La Rioja | 07/11/2026 |
 | **09** | Urban-rural | Despoblación rural en España (2023) | 09/11/2026 |
 | **10** | Prompting only | ... | ⏳ |
