@@ -4,6 +4,7 @@
 
 
 ## Concepto
+
 En este mapa se recrea la expedición botánica que llevó a cabo el botánico **Pierre Edmond Boissier** en 1837 a través de **Sierra Nevada (Granada)**, donde describió numerosos endemismos como la Estrella de las Nieves (*Plantago nivalis*) o la Manzanilla de Sierra Nevada (*Artemisa granatensis*). Este recorrido supuso la base fundamental para el conocimiento de la flora alpina del sur peninsular, plasmado en su obra Voyage botanique dans le Midi de l'Espagne pendant l'année 1837. 
 Para documentar este proyecto y reconstruir espacialmente el itinerario histórico, se ha empleado el estudio monográfico El viaje botánico de Edmond Boissier al sur de España (1837-1987), publicado en Acta Botánica Malacitana (12: 3-26).
 ---
