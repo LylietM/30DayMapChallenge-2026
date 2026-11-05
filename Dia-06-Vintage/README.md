@@ -20,7 +20,7 @@ Para documentar este proyecto y reconstruir espacialmente el itinerario históri
 
 ### 1. Carga y procesamiento del DEM
 
-Se añadió las capas DEM obtenidas en EarthExplorer. Se hizo una combinación para integrar las capas ráster continuas en una única escena de la zona sur de España. Se reproyecto el DEM combinado al sistema de referencia local **ETRS89 / UTM zone 30N (EPSG:25830). Por último, se hizo un recorte de la capa ráster utilizando como máscara el Parque Natural de Sierra Nevada.
+Se añadieron las capas DEM obtenidas en EarthExplorer. Se hizo una combinación para integrar las capas ráster continuas en una única escena de la zona sur de España. Se reproyecto el DEM combinado al sistema de referencia local **ETRS89 / UTM zone 30N (EPSG:25830). Por último, se hizo un recorte de la capa ráster utilizando como máscara el Parque Natural de Sierra Nevada.
 
 ### 2. Georreferenciación e itinerarios históricos
 
