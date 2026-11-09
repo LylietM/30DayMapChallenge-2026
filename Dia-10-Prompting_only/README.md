@@ -78,6 +78,12 @@ El código lo escribió la IA, pero comprobé que el número de registros descar
 
 ---
 
+### Script
+
+[Notebook en GitHub]([https://github.com/tu_usuario/tu_repositorio/blob/main/day07/script.py](https://github.com/LylietM/30DayMapChallenge-2026/tree/main/Dia-10-Prompting_only))
+
+---
+
 ## Fuentes de datos y citas
 
 ### 1. Registros de presencia
