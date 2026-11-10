@@ -74,13 +74,13 @@ o Dime explícitamente qué parámetros de la API, funciones o comportamientos d
 
 ### Qué revisé yo
 
-El código lo escribió la IA, pero comprobé que el número de registros descargado por año coincide con el que muestra GBIF y modifique MAX_PER_YEAR a 2000 para una mejor visualización de las observaciones.
+El código lo escribió la IA, pero comprobé que el número de registros descargado por año coincidía con el que muestra GBIF y modifiqué MAX_PER_YEAR a 2000 para una mejor visualización de las observaciones.
 
 ---
 
 ### Script
 
-[Notebook en GitHub](ganso_europa.ipynb)
+[Notebook creado por GitHub Copilot en Visual Studio Code](ganso_europa.ipynb)
 
 ---
 
