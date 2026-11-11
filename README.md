@@ -22,7 +22,7 @@ Más info: https://30daymapchallenge.com/2026/
 | **09** | Urban-rural | Despoblación rural en España (2023) | [Ver proceso](./Dia-09-Urban-Rural) |
 | **10** | Prompting only | Expansión del ganso del Nilo en Europa | [Ver proceso](./Dia-10-Prompting_only)  |
 | **11** | Senses: Sound | MALA COMUNICACIÓN: Rorcual aliblanco y el tráfico marítimo en Escocia | [Ver proceso](./Dia-11-Sound) |
-| **12** | Power | ... | ⏳ |
+| **12** | Power | El auge fotovoltaico y la transformación territorial en Extremadura | [Ver proceso](./Dia-12-Power) |
 | **15** | Inside out | ... | ⏳ |
 | ... | ... | ... | ⏳ |
 | **28** | Senses: Feeling | ... | ⏳ |
