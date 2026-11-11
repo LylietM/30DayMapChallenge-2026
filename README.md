@@ -21,7 +21,7 @@ Más info: https://30daymapchallenge.com/2026/
 | **07** | 10 minute map | Presencias del trepador azul en La Rioja | [Ver proceso](./Dia-07-10minutemap) |
 | **09** | Urban-rural | Despoblación rural en España (2023) | [Ver proceso](./Dia-09-Urban-Rural) |
 | **10** | Prompting only | Expansión del ganso del Nilo en Europa | [Ver proceso](./Dia-10-Prompting_only)  |
-| **11** | Senses: Sound | ... | ⏳ |
+| **11** | Senses: Sound | MALA COMUNICACIÓN: Rorcual aliblanco y el tráfico marítimo en Escocia | [Ver proceso](./Dia-11-Sound) |
 | **12** | Power | ... | ⏳ |
 | **15** | Inside out | ... | ⏳ |
 | ... | ... | ... | ⏳ |
