@@ -24,6 +24,7 @@ Más info: https://30daymapchallenge.com/2026/
 | **11** | Senses: Sound | MALA COMUNICACIÓN: Rorcual aliblanco y el tráfico marítimo en Escocia | [Ver proceso](./Dia-11-Sound) |
 | **12** | Power | El auge fotovoltaico y la transformación territorial en Extremadura | [Ver proceso](./Dia-12-Power) |
 | ... | ... | ... | ⏳ |
+| **24** | Network | Conectividad fluvial: Red hidrográfica de la cuenca del Guadiana en Extremadura | [Ver proceso](./Dia-24-Network) |
 | **28** | Senses: Feeling | ... | ⏳ |
 | **29** | Raster | ... | ⏳ |
 | **30** | Pen & paper | ... | ⏳ |
