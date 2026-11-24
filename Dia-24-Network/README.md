@@ -20,8 +20,6 @@ En este mapa se visualiza la red hidrográfica de la cuenca del Guadiana en Extr
 
 Se cargó la capa vectorial de la red hidrográfica procedente del Instituto Geográfico Nacional (IGN). Posteriormente se hizo un recorte dentro de la cuenca del Guadiana en Extremadura.
 
-![Red hidrográfica](paso1_red_hidrografica.png)
-
 ### 2. Simbología y procesamiento
 
 - **Red hidrográfica:** Se aplicó una simbología categorizada en base al orden (hasta 6), utilizando un color azul oscuro `#16324F` sobre un fondo claro `#F7F5F0`, ajustando grosores según el orden.
