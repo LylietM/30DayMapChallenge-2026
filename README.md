@@ -25,6 +25,7 @@ Más info: https://30daymapchallenge.com/2026/
 | **12** | Power | El auge fotovoltaico y la transformación territorial en Extremadura | [Ver proceso](./Dia-12-Power) |
 | ... | ... | ... | ⏳ |
 | **24** | Network | Conectividad fluvial: Red hidrográfica de la cuenca del Guadiana en Extremadura | [Ver proceso](./Dia-24-Network) |
+| **26** | Water | Dinámica estacional del Complejo Lagunar de La Albuera (Badajoz) | [Ver proceso](./Dia-26-Water) |
 | **28** | Senses: Feeling | ... | ⏳ |
 | **29** | Raster | ... | ⏳ |
 | **30** | Pen & paper | ... | ⏳ |
